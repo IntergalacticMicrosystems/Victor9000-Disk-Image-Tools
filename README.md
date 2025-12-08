@@ -1,3 +1,5 @@
+# NOTE: this project has been superseded - see [vtg_image_util](https://github.com/IntergalacticMicrosystems/vtg_image_util)
+
 ## Project Overview
 Victor 9000 disk image utility written in Python 3.12+.
 Supports FAT12 filesystem operations including subdirectories.
@@ -96,3 +98,4 @@ IGNORE THESE, FOR TESTING
 - `example_disks/files/` - Reference files extracted from disk.img
 - `example_disks/vichd/` - Reference files extracted from vichd.img
 -->
+
